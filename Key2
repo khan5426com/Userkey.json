@@ -1,12 +1,12 @@
 [
     {
         "device_id": "device",
-        "key": "Khan",
+        "key": "Kan",
         "expirydate": "31-08-2025",
         "Allowoffline": false
     },
     {
-        "device_id": "device2",
+        "device_id": "9c023bce6d414d48",
         "key": "key",
         "expirydate": "15-06-2026",
         "Allowoffline": true
@@ -19,7 +19,7 @@
     },
     {
         "device_id": "9c023bce6d414d48",
-        "key": "Khan",
+        "key": "Khan.",
         "expirydate": "06-02-2026",
         "Allowoffline": false
     },
